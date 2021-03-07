@@ -1,3 +1,2 @@
-gagaggaagaga
-nasdadafdsvd
-gfbdbvcbvc
+tutaj jest sobie nowy tekst
+inny niz na branchu lab1
